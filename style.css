@@ -1,0 +1,87 @@
+.main{
+    margin: -10px;
+}
+.frist{
+    display: flex;
+    flex-direction: row;
+    justify-content: normal;
+    /* margin: 50px; */
+    padding: 30px 50px 20px 150px;
+    font-size: 18px;
+    background-color:#FFCD9E;
+}
+
+.list1{
+    list-style: none;
+    color: white;
+    /* margin-top: 80px; */
+    margin-right: 300px;
+    line-height: 1.5;
+}
+
+.list2{
+    list-style: none;
+    color: white;
+    text-align: right;
+    /* margin-top: 80px; */
+    margin-right: 100px;
+    line-height: 1.5;
+}
+
+.img{
+    margin-left : 130px;
+}
+
+.button {
+    background-color:black;
+    /* width : 150px;
+    height: 20px; */
+    height: 50px;
+    color: white;
+    /* padding: 15px 60px; */
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 16px;
+    width: 180px;
+}
+
+.email{
+    color: white;
+    width : 240px;
+    height: 3px;
+    padding: 20px 20px;
+    text-align: left;
+    border-radius: 8px;
+    border-width: 5px;
+    font-size: 16px;
+    /* border-color: black; */
+    border: solid #000;
+}
+
+.text{
+    color: white;
+    text-align: left;
+    padding-left: 40px;
+}
+
+.second{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-evenly;
+    padding: 25px 0px 25px;
+    font-size: 18px;
+}
+
+.instagram{
+    margin-bottom: 18px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.linkdin{
+    margin-bottom: 18px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
